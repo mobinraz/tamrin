@@ -2,4 +2,7 @@ git sample
 hello github i love you....
 man tamrin git mikonam....
 dastore push
+<<<<<<< HEAD
 conflict???
+
+commite jadid
