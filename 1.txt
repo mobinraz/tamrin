@@ -1,4 +1,2 @@
-hello git
-man ye commit ezafe kardam ke bayad bbini....
-didi pull shod :)
-new pull request code
+salam emrooz 20 ordibehesht 
+Hi Git
